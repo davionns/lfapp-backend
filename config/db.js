@@ -7,7 +7,7 @@ class Database {
             user: 'root',
             password: 'musanawe08',
             database: 'lostandfound',
-            port: 3306
+            port: 3307
         });
 
         this.db.connect((err) => {
